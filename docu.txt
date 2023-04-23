@@ -1,0 +1,23 @@
+Hola! Mi Nombre es Samuel Guerra
+
+Describe que hacen los siguientes comandos de git, escribe su descripcion al frente en una sola linea.
+
+git status: Este comando se usa para obtener el estado actual del repositorio
+
+git clone:  Es un comando que se utiliza para crear una copia local de un repositorio remoto.
+
+git pull:  Este comando se utiliza para obtener los cambios realizados en un repositorio remoto y fusionarlos con el repositorio local.
+
+git checkout: es un comando muy útil en Git que se utiliza para cambiar entre ramas y versiones diferentes de un repositorio.
+
+git log: Es un comando que se utiliza en el sistema de control de versiones Git para ver el historial de confirmaciones (commits) en un repositorio.
+
+git branch: Es un comando que se utiliza en el sistema de control de versiones Git para listar, crear y administrar ramas (branches) en un repositorio.
+
+git add: Es un comando que permite agregar archivos y cambios al área de preparación
+
+git commit: Este comando se utiliza para confirmar los cambios realizados en los archivos que se encuentran en el área de preparación de Git.
+
+git push:  Es un comando que permite enviar los cambios confirmados en un repositorio local a un repositorio remoto.
+
+git merge: Es un comando que permite fusionar cambios de múltiples ramas en una única rama.
